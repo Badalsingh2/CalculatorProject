@@ -8,6 +8,6 @@ public class CalculatorMain {
         System.out.println("Subtraction: " + c.sub(10,5));
         System.out.println("Multiplication: " + c.mul(10,5));
         System.out.println("Division: " + c.div(10,5));
-        System.out.println("Modulus: "+c.mod(10, 3));
+        // System.out.println("Modulus: "+c.mod(10, 3));
     }
 }
